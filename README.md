@@ -1,4 +1,6 @@
-# During these years there have been numerous movements in the US against unjustified police violence which very often led to tragic consequences.
+# PILOT RESEARCH PROJECT – POLICE KILLINGS IN US DURING 2015
+January 2022
+During these years there have been numerous movements in the US against unjustified police violence which very often led to tragic consequences.
 In this paper, we thus want to analyse the social and economic backgrounds that the victims seem to have in common, trying to recover the underlying reasons that have led to such a dramatic result in the last years.
 More specifically, we will focus on some variables, such as gender, ethnicity, level of wealth and level of schooling of the victims.
 Before doing this, however, it is necessary to make some clarifications regarding the limits of our study and the data sets used.
